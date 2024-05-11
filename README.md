@@ -9,10 +9,10 @@ Mathematical model of the feed water level in a vertical type steam generator:
 
 ![image](https://github.com/IlAnP7L24/matlab-DISCRETE-OBJECTS-OF-AUTOMATION_FEED-WATER-LEVEL-IN-STEAM-GENERATORS-OF-NUCLEAR-POWER-PLANTS/assets/158156829/6253d8a7-0bf8-434a-8e6d-0de8b034335d)
 
-де R – внутрішній радіус корпусу парогенератору; 
-Qs – витрата подачі живильної води в корпус парогенератору у м3/с ; 
-Qc(t) – витрата живильної води внаслідок пароутворення у м3/с; 
-y – різниця в м між висотою рівня живильної води у поточний та у початковий моменти часу.
+where R is the inner radius of the steam generator body;
+Qs – feed water flow rate in the steam generator body in m3/s;
+Qc(t) – consumption of feed water due to steam formation in m3/s;
+y is the difference in m between the height of the feed water level at the current and initial moments of time.
 
 A computer model of the water level without a regulator:
 
